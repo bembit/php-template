@@ -36,7 +36,7 @@
         </div>
         <div>
             <i class="far fa-clock"></i>
-            <a class="btn" href="#">Open: Mon - Fri 08:00 - 17:00</a>
+            <a class="btn" href="#">Nyitva: Hetfő - Péntek 08:00 - 17:00</a>
         </div>
         
     </div>

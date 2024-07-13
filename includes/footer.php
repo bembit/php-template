@@ -1,4 +1,4 @@
-<section class="footer bg-secondary">
+<section style="margin-top: 3rem;" class="footer bg-secondary">
         <nav class="contact-bar">
             <div class="margined">
                 <div>
@@ -29,28 +29,28 @@
         <div class=" nav-bot">
             <ul class="nav">
                 <li class="nav-item">
-                    <a href="#" target="_blank" class="nav-link"></i>Home</a>
+                    <a href="#" target="_blank" class="nav-link"></i>Kezdőlap</a>
                 </li>
                 <li class="nav-item">
-                    <a id="nav-3" href="./#section-3" class="nav-link">About</a>
+                    <a id="nav-3" href="./#section-3" class="nav-link">Rólunk</a>
                 </li>
                 <li class="nav-item">
-                    <a href="./navlink6.php" class="nav-link">Work</a>
+                    <a href="./navlink6.php" class="nav-link">Munka</a>
                 </li>
                 <li class="nav-item">
-                    <a href="" class="nav-link">Something</a>
+                    <a href="" class="nav-link">Légkondi</a>
                 </li>
                 <li class="nav-item">
-                    <a href="" class="nav-link">Gallery</a>
+                    <a href="" class="nav-link">Galéria</a>
                 </li>
                 <li class="nav-item">
-                    <a href="./terms.php" class="nav-link">Partners</a>
+                    <a href="./terms.php" class="nav-link">Partnerek</a>
                 </li>
                 <li class="nav-item">
-                    <a href="./cookie.php" class="nav-link">Contact</a>
+                    <a href="./cookie.php" class="nav-link">Kapcsolat</a>
                 </li>
                 <li class="nav-item">
-                    <a href="./cookie.php" class="nav-link">Sales</a>
+                    <a href="./cookie.php" class="nav-link">Értékesítés</a>
                 </li>
             </ul>
         </div>
@@ -58,7 +58,7 @@
         <div class="misc">
             <ul class="">
                 <li class="">
-                    &copy; 2019 Me. Photos from Unsplash.com
+                    &copy; 2019 Bence, Photos from Unsplash.com
                 </li>
                 <li class="">
                     <a href="./cookie.php" class="">Cookie (Süti) Policy</a>
