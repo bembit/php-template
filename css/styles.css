@@ -2163,7 +2163,7 @@ fieldset:disabled a.btn {
 
 .btn-lg, .btn-group-lg > .btn {
   padding: 0.5rem 1rem;
-  font-size: 1.25rem;
+  font-size: 0.875rem;
   line-height: 1.5;
   border-radius: 0.3rem; }
 
@@ -7800,7 +7800,7 @@ section:nth-of-type(2n) {
   top: 0;
   left: 0;
   z-index: 0;
-  background-image: linear-gradient(150deg, rgba(31, 136, 223, 0.878), rgba(219, 255, 189, 0.938)), url("../images/comped/2.jpg");
+  background-image: linear-gradient(150deg, rgba(31, 136, 223, 0.878), rgba(219, 255, 189, 0.938)), url("../images/3.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -7993,9 +7993,9 @@ section:nth-of-type(2n) {
   border-bottom-left-radius: 5rem; }
 
 .landing-page {
-  background-image: linear-gradient(150deg, rgba(0, 0, 0, 0.45), rgba(1, 1, 2, 0.349)), url("../images/landing-full.jpg");
+  background-image: linear-gradient(150deg, rgba(0, 0, 0, 0.45), rgba(1, 1, 2, 0.349)), url("../images/bg.jpg");
   border-bottom-right-radius: 5rem;
-  background-position: center center; }
+  background-position: top center; }
 
 .navlink1-page {
   background-image: linear-gradient(150deg, rgba(156, 221, 34, 0.347), rgba(100, 34, 221, 0.741)), url("../images/high/2.jpg"); }
@@ -8091,7 +8091,7 @@ section:nth-of-type(2n) {
   bottom: 0;
   right: 0;
   z-index: 0;
-  background-image: linear-gradient(150deg, rgba(31, 136, 223, 0.878), rgba(31, 136, 223, 0.878)), url("../images/comped/14.jpg");
+  background-image: linear-gradient(150deg, rgba(31, 136, 223, 0.878), rgba(31, 136, 223, 0.878)), url("../images/3.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -8128,7 +8128,7 @@ section:nth-of-type(2n) {
 
 .footer .nav-bot {
   height: 300px;
-  background-image: linear-gradient(150deg, rgba(31, 136, 223, 0.878), rgba(31, 136, 223, 0.878)), url("../images/comped/3.jpg");
+  background-image: linear-gradient(150deg, rgba(31, 136, 223, 0.878), rgba(31, 136, 223, 0.878)), url("../images/3.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -8237,7 +8237,8 @@ textarea::focus {
 .quote .container {
   display: flex;
   flex-direction: row;
-  align-items: center; }
+  align-items: center;
+ }
 
 .callnow {
   padding: 1rem 1rem; }

@@ -2,7 +2,7 @@
 
     <div class="features-item">
         <button class="btn btn-primary mb-3" type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">
-            Our work <i class="far fa-arrow-alt-circle-down"></i>
+            Hogy dolgozunk <i class="far fa-arrow-alt-circle-down"></i>
         </button>
 
         <div class="collapse show" id="collapse1">
@@ -16,7 +16,7 @@
     </div>    
     <div class="features-item">
         <button class="btn btn-primary mb-3" type="button" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
-            Something else <i class="far fa-arrow-alt-circle-down"></i>
+            Hányan dolgozunk <i class="far fa-arrow-alt-circle-down"></i>
         </button>
 
         <div class="collapse" id="collapse2">
@@ -30,7 +30,7 @@
     </div>
     <div class="features-item">
         <button class="btn btn-primary mb-3" type="button" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
-            Dropdown <i class="far fa-arrow-alt-circle-down"></i>
+            Mennyiért dolgozunk <i class="far fa-arrow-alt-circle-down"></i>
         </button>
 
         <div class="collapse" id="collapse3">
@@ -44,7 +44,7 @@
     </div>
     <div class="features-item">
         <button class="btn btn-primary mb-3" type="button" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
-            Production <i class="far fa-arrow-alt-circle-down"></i>
+            Milyen gyorsan <i class="far fa-arrow-alt-circle-down"></i>
         </button>
 
         <div class="collapse" id="collapse4">

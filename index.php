@@ -16,24 +16,24 @@
     <div class="text-white text-center dynamic-container margined-right">
         <div class="spacing">
             <div>
-                <h3>Call us now</h3>
-                <a href="./navlink6.php" class="btn btn-lg btn-secondary text-white"><i class="fas fa-phone-alt"></i> Call now</a>
+                <h3>Hívjon most</h3>
+                <a href="./navlink6.php" class="btn btn-lg btn-secondary text-white"><i class="fas fa-phone-alt"></i> Hívás</a>
             </div>
             <div>
-                <h3>or drop a message</h3>
-                <a href="./navlink6.php" class="btn btn-lg btn-secondary text-white"><i class="fas fa-envelope"></i> Message us</a>
+                <h3>vagy üzenjen</h3>
+                <a href="./navlink6.php" class="btn btn-lg btn-secondary text-white"><i class="fas fa-envelope"></i> Üzenek</a>
             </div>
         </div> 
     </div>
 
     <section class="references">
         <div class="partners text-center">
-            <h3 class="">Our Partners:</h3>
+            <h3 class="">Partnereink:</h3>
             <div class="partner">
                 <div class="partner-icon"><i class="fab fa-accusoft"></i></div>
                 <div class="partner-info">
                     <div class="partner-title">
-                        <h4>Accusoft</h4>
+                        <h4>ISD Dunaferr</h4>
                     </div>
                     <div class="partner-subtitle">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -44,7 +44,7 @@
                 <div class="partner-icon"><i class="fab fa-adobe"></i></div>
                 <div class="partner-info">
                     <div class="partner-title">
-                        <h4>Adobe</h4>
+                        <h4>Hankook Tire</h4>
                     </div>
                     <div class="partner-subtitle">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -58,13 +58,13 @@
         <div class="container text-center d-flex justify-content-between description-mobile">
        
             <div class="intro text-left col-md-6">
-                <p class="text-left">Introducing</p>
-                <h2 class="text-left mb-5">Section Title</h2>
+                <p class="text-left">Bevezetés</p>
+                <h2 class="text-left mb-5">Légkondi szerelés</h2>
                 
                 <p class="lead text-left">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus rerum optio aut atque laboriosam harum facilis reiciendis corrupti repudiandae. Laboriosam cum optio porro! Tempora eveniet ipsa nostrum nam nobis ratione, ducimus quaerat voluptatum, quasi harum aspernatur aliquam necessitatibus voluptates earum cupiditate illo quibusdam autem impedit dolor nihil sit magni recusandae!
                 </p>
-                <a href="./navlink6.php" class="btn btn-lg btn-secondary text-white text-left">CTA button</a>
+                <a href="./navlink6.php" class="btn btn-lg btn-secondary text-white text-left">Hívás</a>
             </div>
 
            <div class="col-md-6">
@@ -81,8 +81,8 @@
     <section id="section-2" class="about margined">
         <div class="container text-center">
 
-            <h2 class="mb-3">Section 2 Title</h2>
-            <h3 class="">subtitle</h3>
+            <h2 class="mb-3">Egyéb ipari munkák</h2>
+            <h3 class="">Bármi</h3>
             <hr>
             <p class="lead text-left">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero, labore, perferendis molestiae consequatur totam molestias neque tenetur eum ipsum veniam maiores, corrupti necessitatibus modi laboriosam sunt blanditiis voluptatum doloribus! Facilis vel molestias, non laborum esse distinctio deleniti quis voluptates deserunt corporis nemo alias ratione amet modi commodi autem veniam. Tenetur.
@@ -92,7 +92,7 @@
                 <div class="col-md-4 col-sm-12">
                     <!-- <div class="imgcontainer"></div> -->
                     <i class="fas fa-globe-europe mb-5"></i>
-                    <h3>Item 1</h3>
+                    <h3>Villany</h3>
                     <hr>
                     <p class="lead text-left">
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum facilis recusandae repudiandae architecto tenetur perspiciatis deserunt quibusdam voluptatibus alias! At nam fugit dolorum excepturi voluptate.
@@ -101,7 +101,7 @@
          
                 <div class="col-md-4 col-sm-12">
                     <i class="fas fa-heartbeat mb-5"></i>
-                    <h3>Item 2</h3>
+                    <h3>Víz</h3>
                     <hr>
                     <p class="lead text-left">
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem, officiis quis adipisci cum libero a facilis iusto tempore vel? Assumenda, atque? Cupiditate quaerat omnis expedita?
@@ -110,7 +110,7 @@
 
                 <div class="col-md-4 col-sm-12">
                    <i class="fas fa-running mb-5"></i>
-                    <h3>Item 2</h3>
+                    <h3>Csőszerelés</h3>
                     <hr>
                     <p class="lead text-left">
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem, officiis quis adipisci cum libero a facilis iusto tempore vel? Assumenda, atque? Cupiditate quaerat omnis expedita?
@@ -121,7 +121,7 @@
             <div class="row text-center">
                 <div class="col-md-12">
                     
-                    <a href="./navlink6.php" class="btn btn-lg btn-secondary text-white text-left">CTA button</a>
+                    <a href="./navlink6.php" class="btn btn-lg btn-secondary text-white text-left">Megnézem</a>
                 </div>
             </div>
         </div>
@@ -134,26 +134,23 @@
         
     </section>
 <!-- gallery -->
-    <section class="margined">
-            <?php
-                include('./includes/gallery.php');
-            ?>
-            <div class="text-center">
+    <!-- <section class="margined"> -->
+            <!--   include('./includes/gallery.php');?> -->
+            <!-- <div class="text-center">
                 <a href="./navlink6.php" class="btn btn-lg btn-secondary text-white text-left mb-5 mt-3">See more</a>
             </div>
-    </section>
-
+    </section>  -->
 <!-- form -->
 
     <section id="section-5" class="quote margined">
         <div class="container">
             <div class="col-md-6 form-picture text-center">
-                <img class="d-block w-100" src="./images/comped/11.jpg" alt="person of contact">
+                <img class="d-block w-100" src="./images/2.jpg" alt="person of contact">
                 <div class="callnow">
-                    <h3>Are you interested?</h3>
+                    <h3>Mi megoldjuk!</h3>
                     <p class="lead">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde est pariatur ab, amet esse id?</p>
                     <h4>1-555-555-555</h4>
-                    <a href="./navlink6.php" class="btn btn-lg btn-primary text-white text-center">Call now</a>
+                    <a href="./navlink6.php" class="btn btn-lg btn-primary text-white text-center">Hívás</a>
                 </div>
             </div>
             <div class="col-md-6">
@@ -166,7 +163,7 @@
     </section>
 
 <!-- contact -->
-    <section id="section-4" class="contact margined">
+    <!-- <section id="section-4" class="contact margined">
 
         <div class="container">
                 <h2 class="text-center">Section 4 Title</h2>
@@ -194,7 +191,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
 <?php
     include('./includes/footer.php');
